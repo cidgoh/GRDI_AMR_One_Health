@@ -16,6 +16,7 @@ _May request multiple terms in a single issue - delete the fields irrelevant to 
 
 **Label:** 
 **Definition/Description:** 
+- **Definition Source:** {if applicable}
 **Synonyms or alternative labels:**
 **Additional Comments (not an annotation)**:
 {If applicable}
