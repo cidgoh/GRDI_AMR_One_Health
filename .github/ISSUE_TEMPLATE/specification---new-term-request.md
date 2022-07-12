@@ -2,7 +2,7 @@
 name: Specification - New Term Request
 about: Describe this issue template's purpose here.
 title: 'NTR: [list term label(s)]'
-labels: ''
+labels: NTR
 assignees: ''
 
 ---
