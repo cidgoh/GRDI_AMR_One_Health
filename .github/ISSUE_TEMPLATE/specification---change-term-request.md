@@ -1,13 +1,13 @@
 ---
 name: Specification - Change Term Request
 about: An issue template for submitting term change requests.
-title: 'NTR: [list term label(s)]'
-labels: NTR
+title: 'CTR: [list term label(s)]'
+labels: CTR
 assignees: ''
 
 ---
 
-# AMR-GRDI Specification - New Term Request (NTR)
+# AMR-GRDI Specification - Change Term Request (CTR)
 _May request terms changes in a single issue - delete the fields irrelevant to your request._
 
 ## Picklist Item(s)
