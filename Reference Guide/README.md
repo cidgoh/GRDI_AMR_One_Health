@@ -6,7 +6,7 @@ The contents of this directory include field and term reference guides to accomp
 ## Files
 
 - `GRDI_Master-Reference-Guide_v#.#.xlsx` 
-Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of supervisual formatting (shaded cells, bold text, etc.)
+Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of superficial formatting (shaded cells, bold text, etc.)
   - An online Google Sheet version is available for viewing [**here**](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing).
 
 - `GRDI_Master-Reference - Field Reference Guide_v#.#.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
