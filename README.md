@@ -29,6 +29,6 @@ Find these resources below:
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-#### Curation SOP 3.0
+#### Curation Standard Operating Procedure (SOP) 3.0
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Metadata-Curation-SOP-3.0.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
