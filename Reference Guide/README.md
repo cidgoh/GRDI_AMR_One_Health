@@ -1,4 +1,4 @@
-# AMR-GRDI curation Template Reference Guide
+# AMR-GRDI Curation Template Reference Guide
 _AMR-GRDI = The Canadian Antimicrobial Resistance Genomics Research and Development Initiative_
 
 The contents of this directory include field and term reference guides to accompany the spreadsheet-base implementation (i.e. metadata template) of the AMR-GRDI standard. Reference guides provide ontology IDs, definitions, and specific curation guidance. 
