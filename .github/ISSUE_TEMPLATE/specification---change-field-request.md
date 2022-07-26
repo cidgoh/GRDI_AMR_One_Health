@@ -2,7 +2,7 @@
 name: Specification - Change Field Request
 about: An issue template for submitting field change requests.
 title: 'CFR: [list term label(s)]'
-labels: field request
+labels: field request, NTR
 assignees: ''
 
 ---
