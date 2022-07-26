@@ -22,10 +22,10 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
 Find these resources below:
  
 #### Data Collection Template 3.0
-- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Harmonization-Template_v3.0.xlsx)
+- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
  
 #### Field and Term Reference Guides 3.0
-- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Harmonization-Template_v3.0.xlsx)
+- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
