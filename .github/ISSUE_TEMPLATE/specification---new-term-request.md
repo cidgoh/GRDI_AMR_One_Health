@@ -1,6 +1,6 @@
 ---
 name: Specification - New Term Request
-about: Describe this issue template's purpose here.
+about: An issue template for submitting new term requests.
 title: 'NTR: [list term label(s)]'
 labels: NTR
 assignees: ''

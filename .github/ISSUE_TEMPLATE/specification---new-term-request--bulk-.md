@@ -1,6 +1,6 @@
 ---
 name: Specification - New Term Request (Bulk)
-about: For making large batches for term requests at once.
+about: For making large batches for term new requests all at once.
 title: 'NTR: [briefly describe bulk term request]'
 labels: NTR
 assignees: ''
