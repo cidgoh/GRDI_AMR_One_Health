@@ -15,7 +15,6 @@ _May request multiple fields at a time if they are related to one another. If th
 Associated Field Category/Tab: {e.g., Host Information}
 Field:
 
-Label:
 Definition/Description:
 Definition Source:
 Synonyms or alternative labels:
