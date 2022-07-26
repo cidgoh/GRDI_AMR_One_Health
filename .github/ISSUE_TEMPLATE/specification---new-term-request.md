@@ -12,7 +12,7 @@ _May request multiple terms in a single issue - delete the fields irrelevant to 
 
 ## Picklist Item(s)
 
-Associated Field(s):  {e.g., organism} 
+Associated Field(s):
 
 Label:
 Definition/Description:
