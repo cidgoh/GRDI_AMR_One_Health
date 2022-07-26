@@ -5,10 +5,21 @@ The contents of this directory include the spreadsheet-based implementation (i.e
 
 ## Files
 
-- `GRDI_Master-Reference-Guide_v#.#.xlsx` 
-Microsoft Excel Open XML Format Spreadsheet file, opening in other applications only risks the loss of supervisual formatting (shaded cells, bold text, etc.)
-  - An online version is available for viewing [**here**](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing).
+- `GRDI_Harmonization-Template_v#.#.xlsx` 
+Microsoft Excel Open XML Format Spreadsheet file, opening in other applications risks the loss of validation and merge sheet functionality.
 
-- `GRDI_Master-Reference - Field Reference Guide_v#.#.pdf` a PDF printout of the "Field Reference Guide" tab within the Master reference .xlsx file.
+## Template Contents
 
-- `GRDI_Master-Reference - Term Reference Guide_v#.#.pdf` a PDF printout of the "Term Reference Guide" tab within the Master reference .xlsx file.
+- The "**Reference Guide**" tab contains field-level reference guide information.
+- The "**Vocabulary**" tab contains picklist vocabularies.
+
+Check the [curation standard-operating-procedure](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs) for more information on using the following dataset worksheet tabs:
+
+- The "**Merged Sheet**" tab contains information for a sample/isolate across all applicable tabs.
+- The "**Sample Collection and Processing Information**" tab is where you enter information about the original sample.
+- The "**Host Information**" tab is where you enter information about the host.
+- The "**Strain and Isolate Information**" tab is where you enter information about the original strain or isolate.
+- The "**Sequence Information**" tab is where you enter information about the sequence.
+- The "**Public Repository Information**" tab is where you enter information about the sequence submitted to a public repository.
+- The "**Risk Assessment**" tab is where you enter informations about samples and isolates to enhance risk assessment.
+- The "**AMR Phenotypic Test Information**" tab is where you enter information about antimicrobial resistance (AMR) testing results.
