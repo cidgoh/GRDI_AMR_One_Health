@@ -12,14 +12,13 @@ _May request multiple terms in a single issue - delete the fields irrelevant to 
 
 ## Picklist Item(s)
 
-### **Associated Field(s):**  {e.g., organism} 
+Associated Field(s):  {e.g., organism} 
 
-**Label:** 
-**Definition/Description:** 
-**Definition Source:** {if applicable}
-**Synonyms or alternative labels:**
-**Additional Comments (not an annotation)**:
-{If applicable}
+Label:
+Definition/Description:
+Definition Source:
+Synonyms or alternative labels:
+Additional Comments (not an annotation):
 
 --- 
-Contributor Attribution: {ORCiD is preferred - this is so we can list you as a contributor if we create a new term for this request}
+Contributor Attribution: {Optional - ORCiD is preferred}
