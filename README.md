@@ -21,9 +21,14 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP.
 Find these resources below:
  
-Data collection template 3.0 (link template)
+#### Data Collection Template 3.0
+- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Harmonization-Template_v3.0.xlsx)
  
-Field and Term Reference Guides 3.0 (link to ref guides)
+#### Field and Term Reference Guides 3.0
+- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Harmonization-Template_v3.0.xlsx)
+- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
+- [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-Curation SOP 3.0 (link to SOP)
-
+#### Curation SOP 3.0
+- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/GRDI_Metadata-Curation-SOP-3.0.pdf)
+- [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
