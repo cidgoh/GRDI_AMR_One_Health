@@ -18,8 +18,7 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 ### The GRDI-AMR contextual data specification package
 
-The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP.
-Find these resources below:
+The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP. Find these resources below:
  
 #### Data Collection Template 3.0
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
