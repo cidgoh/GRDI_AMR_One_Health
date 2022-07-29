@@ -22,10 +22,10 @@ The GRDI-AMR specification is also ISO 23418 compliant (Microbiology of the food
 
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
  
-#### Data Collection Template 3.0
+#### Data Collection Template 3.1.0
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
  
-#### Field and Term Reference Guides 3.0
+#### Field and Term Reference Guides 3.1
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
