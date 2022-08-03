@@ -37,3 +37,10 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
 #### New Term Request Standard Operating Procedure (SOP) 1.1
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
+
+### Version Control
+Changes to vocabulary in template pick lists are updated by incremental increases to the third position in the version (i.e. “Z” position). Changes to fields and features are updated by incremental increases to the second position in the version (i.e. “Y” position). Changes to basic infrastructure or major changes to functionality are updated by incremental increases to the first position in the version (i.e. “X” position).
+
+Descriptions of updates are provided in [release notes](https://github.com/cidgoh/GRDI_AMR_One_Health/releases) for every new version.
+
+Discussions contributing to updates may be tracked on the DataHarmonizer GitHub issue tracker.
