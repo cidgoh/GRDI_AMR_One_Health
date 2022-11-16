@@ -22,15 +22,15 @@ The GRDI-AMR specification is also [ISO 23418](https://www.iso.org/standard/7550
 
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
  
-#### Data Collection Template 3.1.0
+#### Data Collection Template 4.2.1
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
  
-#### Field and Term Reference Guides 3.1
+#### Field and Term Reference Guides 4.2.1
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-#### Curation Standard Operating Procedure (SOP) 3.0
+#### Curation Standard Operating Procedure (SOP) 4.2
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
