@@ -11,9 +11,9 @@ assignees: ''
 
 ## Field Change Details
 
-### REQUIRED - Current Fiel Information:
+### REQUIRED - Current Field Information:
 Field Label:
-Associated Field Category/Tab: <e.g., Host Information>
+Associated Field Category/Tab: <eg, Host Information>
 Ontology ID or PURL: <Can be found in the reference guides.>
 
 
