@@ -7,16 +7,15 @@ assignees: ''
 
 ---
 
-# AMR-GRDI Specification - New Term Request (NTR)
 _May request multiple terms in a single issue - delete the fields irrelevant to your request._
 
 ## Picklist Item(s)
+* required fields
 
-Associated Field(s):
+Associated Field(s)*:
+Label*:
+Definition/Description*:
 
-Parent Term:
-Label:
-Definition/Description:
 Definition Source:
 Synonyms or alternative labels:
 Additional Comments (not an annotation):
