@@ -7,18 +7,17 @@ assignees: ''
 
 ---
 
-_May request multiple terms in a single issue - delete the fields irrelevant to your request._
+<You may request multiple terms in a single issue. Delete the fields irrelevant to your request.>
 
-## Picklist Item(s)
-* required fields
+## New Picklist Term(s)
 
-Associated Field(s)*:
-Label*:
-Definition/Description*:
+### REQUIRED:
+Associated Field(s):
+Term Label:
+Definition/Description: <Can be a brief description to help curators differentiate your intended term from other meanings.>
 
+### OPTIONAL:
 Definition Source:
 Synonyms or alternative labels:
 Additional Comments (not an annotation):
-
---- 
-Contributor Attribution: {Optional - ORCiD is preferred}
+Contributor Attribution: <ORCiD is preferred><Contributor information is added the the term when created when possible.>

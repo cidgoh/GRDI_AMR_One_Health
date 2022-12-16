@@ -7,19 +7,22 @@ assignees: ''
 
 ---
 
-# AMR-GRDI Specification - Change Field Request (CFR)
-_May request multiple fields at a time if they are related to one another. If this is a request for a new field please indicate so in your request._
+<You may request multiple fields in a single issue. Delete the information irrelevant to your request.>
 
-## Picklist Item(s)
+## Field Change Details
 
-Associated Field Category/Tab: {e.g., Host Information}
-Field:
+### REQUIRED - Current Fiel Information:
+Field Label:
+Associated Field Category/Tab: <e.g., Host Information>
+Ontology ID or PURL: <Can be found in the reference guides.>
 
+
+### CHANGE REQUESTS:
+Associated Field Category/Tab:
+Label:
 Definition/Description:
-Definition Source:
 Synonyms or alternative labels:
 Guidance:
 Additional Comments (not an annotation):
 
---- 
-Contributor Attribution: {Optional - ORCiD is preferred}
+Contributor Attribution: <ORCiD is preferred><Contributor information is added the the term when created when possible.>

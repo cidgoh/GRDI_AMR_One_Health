@@ -7,20 +7,21 @@ assignees: ''
 
 ---
 
-# AMR-GRDI Specification - Change Term Request (CTR)
-_May request terms changes in a single issue - delete the fields irrelevant to your request._
+<You may request multiple terms in a single issue. Delete the fields irrelevant to your request.>
 
-## Picklist Item(s)
+## New Picklist Term(s)
 
+### REQUIRED - Current Term Information:
 Associated Field(s):
+Term Label:
+Ontology ID or PURL: 
 
-Label:
-Ontology ID or PURL:
 
+### CHANGE REQUESTS:
+Associated Field(s):
+Term Label:
 Definition/Description:
-Definition Source:
 Synonyms or alternative labels:
 Additional Comments (not an annotation):
 
---- 
-Contributor Attribution: {Optional - ORCiD is preferred}
+Contributor Attribution: <ORCiD is preferred><Contributor information is added the the term when created when possible.>
