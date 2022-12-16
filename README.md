@@ -34,7 +34,7 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
-#### New Term Request Standard Operating Procedure (SOP) 1.1
+#### New Term Request Standard Operating Procedure (SOP) 1.2
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
 
