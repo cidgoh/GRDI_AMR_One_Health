@@ -15,3 +15,12 @@ assignees: ''
 | Field | Change |
 | --- | --- |
 | `field` |  |
+
+### Version Tracking:
+Excel Template, Reference Guides, Curation SOP
+
+x = # = <field changes>
+y = # = <value/ID changes>
+z = # = <def/format/example changes>
+
+New Term SOP N/A unless indicated.
