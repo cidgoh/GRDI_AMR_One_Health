@@ -1,6 +1,6 @@
 # The GRDI-AMR
 
-## Using genomics as a tool for for understanding how antimicrobial resistance genes and resistant bacteria move throughout the Canadian food supply
+## Using genomics as a tool for understanding how antimicrobial resistance genes and resistant bacteria move throughout the Canadian food supply
 
 “One Health” is a collaborative approach that recognizes that the health of people is closely connected to the health of animals and our shared environment. Genomic surveillance using a One Health approach is a powerful tool for understanding and tracking how pathogens affecting human health evolve and spread. Genomic surveillance of pathogens requires high quality sequence data as well as well structured contextual data. Contextual data is the sample, laboratory, clinical, epidemiological, and methods information that enables the interpretation of sequence data. One Health initiatives often involve data streams from different sources, agencies, sectors, and information management systems, and because the data is structured in different ways it is often difficult to harmonize and integrate. By structuring contextual data using community standards such as minimum information checklists and ontologies, this information can be more easily understood and used by both humans and computers, and can be more easily reused for different types of analyses.
 
