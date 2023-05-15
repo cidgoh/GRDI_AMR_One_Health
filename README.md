@@ -22,15 +22,18 @@ The GRDI-AMR specification is also [ISO 23418](https://www.iso.org/standard/7550
 
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
  
-#### Data Collection Template 6.4.2
+#### Data Collection Template 7.6.4
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
+- [DataHarmonizer version](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator.
+  - Instructions on "[Getting Started](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started)".
  
-#### Field and Term Reference Guides 6.4.2
+#### Field and Term Reference Guides 7.6.4
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-#### Curation Standard Operating Procedure (SOP) 6.4
+#### Curation Standard Operating Procedure (SOP) 7.6
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
