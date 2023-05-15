@@ -24,8 +24,8 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
  
 #### Data Collection Template 7.6.4
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
-- [DataHarmonizer version](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator.
+- [DataHarmonizer App](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator. Template name "GRDI".
   - Instructions on "[Getting Started](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started)".
  
 #### Field and Term Reference Guides 7.6.4
