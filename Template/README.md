@@ -24,7 +24,7 @@ Check the [curation standard-operating-procedure](https://github.com/cidgoh/GRDI
 - The "**Public Repository Information**" tab is where you enter information about the sequence submitted to a public repository.
 - The "**Risk Assessment**" tab is where you enter informations about samples and isolates to enhance risk assessment.
 - The "**AMR Phenotypic Test Information**" tab is where you enter information about antimicrobial resistance (AMR) testing results.
-- The ****Vocabulary**** tab contains the picklist vocabulary used across the various tabs.
+- The "**Vocabulary**" tab contains the picklist vocabulary used across the various tabs.
 
 ## Macro Information
 
