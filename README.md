@@ -22,13 +22,13 @@ The GRDI-AMR specification is also [ISO 23418](https://www.iso.org/standard/7550
 
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
  
-#### Data Collection Template 7.6.4
+#### Data Collection Template 7.7.5
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
 - [DataHarmonizer App](https://github.com/cidgoh/pathogen-genomics-package/releases)
   - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator. Template name **"GRDI"**. Template schema files can be found as .yaml/.json/.tsv [here](https://github.com/cidgoh/DataHarmonizer/tree/master/web/templates/grdi).
   - Instructions on "[Getting Started](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
  
-#### Field and Term Reference Guides 7.6.4
+#### Field and Term Reference Guides 7.7.5
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide/GRDI_Master-Reference-Guide_v7.6.4.xlsx)
 - PDF version
   - [Field Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide/GRDI_Master-Reference-Guide%20-%20Field%20Reference%20Guide%207.6.4.pdf)
