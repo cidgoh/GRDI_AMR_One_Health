@@ -39,7 +39,7 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs/GRDI_Metadata-Curation-SOP-7.6.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
-### DataHarmonizer Download and Operation Instructions (SOP) 7.7
+#### DataHarmonizer Download and Operation Instructions (SOP) 7.7
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
 
