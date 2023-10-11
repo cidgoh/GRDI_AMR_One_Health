@@ -1,0 +1,91 @@
+name: Specification - Change Field Request
+description: An issue template for submitting field change requests.
+title: "CFR: [list field label(s)]"
+labels: ["field request"]
+assignees:
+body:
+  - type: input
+    id: current field label
+    attributes:
+      label: Current Field Label
+      description: 
+      placeholder: <example: sample_collector_sample_ID>
+    validations:
+      required: true
+  - type: input
+    id: current field category
+    attributes:
+      label: Associated Field Category/Tab
+      description: The field "grouping" or the template tab where this field is used.
+      placeholder: <example: Sample collection and processing>
+    validations:
+      required: true
+  - type: input
+    id: current field id
+    attributes: 
+      label: Ontology ID or PURL
+      description: The field identifier (can be found in reference guides).
+      placeholder: <example: GENEPIO:0001153>
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        What changes would you like to have happen?
+  - type: input
+    id: change field category
+    attributes: 
+      label: Change - Associated Field Category/Tab
+      description: Change request for the field "grouping" or the template tab where this field is used
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change field label
+    attributes: 
+      label: Change - Label
+      description: Change request for tthe field label.
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change field description
+    attributes: 
+      label: Change - Description
+      description: Change request for the field definition/description.
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change field guidance
+    attributes: 
+      label: Change - Guidance
+      description: Change request for the field guidance - which clarifies how it is used within this specification.
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change field synonym
+    attributes: 
+      label: Change - Synonym(s) or Alternative Label(s)
+      description: Request to change existing or add to the listed field synonyms or alternative labels.
+      placeholder: 
+    validations:
+      required: false
+  - type: textarea
+    id: additional comments
+    attributes:
+      label: Additional Comments (not an annotation)
+      description: Other information or context you would like the curator(s) to know.
+      placeholder: 
+      value: 
+    validations:
+      required: false
+  - type: input
+    id: contributor
+    attributes: 
+      label: Optional - Contributor Attribution
+      description: Your contributor information (ORCiD preferred) to add the term, within the ontology, if change(s) are accepted.
+      placeholder: 0000-0001-5109-3700 or https://orcid.org/0000-0001-5109-3700
+    validations:
+      required: false
