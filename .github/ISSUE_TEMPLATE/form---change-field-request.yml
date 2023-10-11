@@ -1,6 +1,6 @@
 name: Specification Field Change Request
 description: An issue template for submitting field change requests.
-title: "CFR: [list field label(s)]"
+title: "CFR: [current field label]"
 labels: ["field request"]
 body:
   - type: input
