@@ -27,10 +27,6 @@ body:
       placeholder: ex. GENEPIO:0001153
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        What changes would you like to have happen?
   - type: input
     id: change-field-category
     attributes: 
