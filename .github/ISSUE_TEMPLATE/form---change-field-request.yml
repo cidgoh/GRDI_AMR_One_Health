@@ -4,7 +4,7 @@ title: "CFR: [list field label(s)]"
 labels: ["field request"]
 body:
   - type: input
-    id: current field label
+    id: current-field-label
     attributes:
       label: Current Field Label
       description: 
@@ -12,7 +12,7 @@ body:
     validations:
       required: true
   - type: input
-    id: current field category
+    id: current-field-category
     attributes:
       label: Associated Field Category/Tab
       description: The field "grouping" or the template tab where this field is used.
@@ -20,7 +20,7 @@ body:
     validations:
       required: true
   - type: input
-    id: current field id
+    id: current-field-id
     attributes: 
       label: Ontology ID or PURL
       description: The field identifier (can be found in reference guides).
@@ -32,7 +32,7 @@ body:
       value: |
         What changes would you like to have happen?
   - type: input
-    id: change field category
+    id: change-field-category
     attributes: 
       label: Change - Associated Field Category/Tab
       description: Change request for the field "grouping" or the template tab where this field is used
@@ -40,7 +40,7 @@ body:
     validations:
       required: false
   - type: input
-    id: change field label
+    id: change-field-label
     attributes: 
       label: Change - Label
       description: Change request for tthe field label.
@@ -48,7 +48,7 @@ body:
     validations:
       required: false
   - type: input
-    id: change field description
+    id: change-field-description
     attributes: 
       label: Change - Description
       description: Change request for the field definition/description.
@@ -56,7 +56,7 @@ body:
     validations:
       required: false
   - type: input
-    id: change field guidance
+    id: change-field-guidance
     attributes: 
       label: Change - Guidance
       description: Change request for the field guidance - which clarifies how it is used within this specification.
@@ -64,7 +64,7 @@ body:
     validations:
       required: false
   - type: input
-    id: change field synonym
+    id: change-field-synonym
     attributes: 
       label: Change - Synonym(s) or Alternative Label(s)
       description: Request to change existing or add to the listed field synonyms or alternative labels.
@@ -72,7 +72,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: additional comments
+    id: additional-comments
     attributes:
       label: Additional Comments (not an annotation)
       description: Other information or context you would like the curator(s) to know.
