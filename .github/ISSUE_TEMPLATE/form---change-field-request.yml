@@ -9,7 +9,7 @@ body:
     attributes:
       label: Current Field Label
       description: 
-      placeholder: example: sample_collector_sample_ID
+      placeholder: ex. sample_collector_sample_ID
     validations:
       required: true
   - type: input
@@ -17,7 +17,7 @@ body:
     attributes:
       label: Associated Field Category/Tab
       description: The field "grouping" or the template tab where this field is used.
-      placeholder: example: Sample collection and processing
+      placeholder: ex. Sample collection and processing
     validations:
       required: true
   - type: input
@@ -25,7 +25,7 @@ body:
     attributes: 
       label: Ontology ID or PURL
       description: The field identifier (can be found in reference guides).
-      placeholder:<example: GENEPIO:0001153
+      placeholder: ex. GENEPIO:0001153
     validations:
       required: true
   - type: markdown
