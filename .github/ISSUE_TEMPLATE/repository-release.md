@@ -1,7 +1,7 @@
 ---
 name: Repository Release
 about: An issue template that outlines the steps needed to perform a repository release
-title: 'Repository Release #.#.#'
+title: "#.#.# - repository release"
 labels: ''
 assignees: ''
 
