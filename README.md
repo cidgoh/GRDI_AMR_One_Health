@@ -22,28 +22,28 @@ The GRDI-AMR specification is also [ISO 23418](https://www.iso.org/standard/7550
 
 The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
  
-#### Data Collection Template 7.7.6
+#### Data Collection Template
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
 - [DataHarmonizer App](https://github.com/cidgoh/pathogen-genomics-package/releases)
   - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator. Template name **"GRDI"**. Template schema files can be found as .yaml/.json/.tsv [here](https://github.com/cidgoh/DataHarmonizer/tree/master/web/templates/grdi).
   - Instructions on "[Getting Started](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
  
-#### Field and Term Reference Guides 7.7.6
+#### Field and Term Reference Guide
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide/GRDI_Master-Reference-Guide_v7.6.4.xlsx)
 - PDF version
   - [Field Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide/GRDI_Master-Reference-Guide%20-%20Field%20Reference%20Guide%207.6.4.pdf)
   - [Term Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide/GRDI_Master-Reference-Guide%20-%20Term%20Reference%20Guide%207.6.4.pdf)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-#### Curation Standard Operating Procedure (SOP) 7.7
+#### Curation Standard Operating Procedure (SOP)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs/GRDI_Metadata-Curation-SOP-7.6.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
-#### DataHarmonizer Download and Operation Instructions (SOP) 7.7
+#### DataHarmonizer Download and Operation Instructions (SOP)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
 
-#### New Term Request Standard Operating Procedure (SOP) 1.2
+#### New Term Request Standard Operating Procedure (SOP)
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs/GRDI_New-Term-Request-SOP-1.2.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
 

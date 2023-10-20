@@ -1,66 +1,66 @@
-name: FORM - Specification Field Change Request
-description: An issue form for submitting field change requests.
-title: "CFR: [current field label]"
-labels: ["field request"]
+name: FORM - Specification Term Change Request
+description: An issue form for submitting picklist term change requests
+title: "CTR: [current term label]"
+labels: ["term request"]
 body:
   - type: input
-    id: current-field-label
+    id: current-term-label
     attributes:
-      label: Current Field Label
+      label: Current Term Label
       description: 
-      placeholder: ex. sample_collector_sample_ID
+      placeholder: ex. Canada
     validations:
       required: true
   - type: input
-    id: current-field-category
-    attributes:
-      label: Associated Field Category/Tab
-      description: The field "grouping" or the template tab where this field is used.
-      placeholder: ex. Sample collection and processing
-    validations:
-      required: true
-  - type: input
-    id: current-field-id
+    id: current-term-id
     attributes: 
       label: Ontology ID or PURL
       description: The field identifier (can be found in reference guides).
-      placeholder: ex. GENEPIO:0001153
+      placeholder: ex. GAZ:00002560
     validations:
       required: true
   - type: input
-    id: change-field-category
+    id: current-field
+    attributes:
+      label: Associated Field(s)
+      description: The field(s) for which this term is associated within the specification.
+      placeholder: ex. geo_loc_name (country), host_origin geo_loc (country)
+    validations:
+      required: true
+  - type: input
+    id: change-field
     attributes: 
-      label: Change - Associated Field Category/Tab
-      description: Change request for the field "grouping" or the template tab where this field is used.
+      label: Change - Associated Field(s)
+      description: Change request for the fields where this field is used (e.g. add to a different field, remove from field, etc.).
       placeholder: 
     validations:
       required: false
   - type: input
-    id: change-field-label
+    id: change-term-label
     attributes: 
       label: Change - Label
-      description: Change request for the field label.
+      description: Change request for the term label.
       placeholder: 
     validations:
       required: false
   - type: textarea
-    id: change-field-description
+    id: change-term-description
     attributes: 
       label: Change - Description
-      description: Change request for the field definition/description.
+      description: Change request for the term definition/description.
       placeholder: 
     validations:
       required: false
   - type: textarea
-    id: change-field-guidance
+    id: change-term-guidance
     attributes: 
       label: Change - Guidance
-      description: Change request for the field guidance - which clarifies how it is used within this specification.
+      description: Change request for the term guidance - which clarifies how it is used within this specification.
       placeholder: 
     validations:
       required: false
   - type: input
-    id: change-field-synonym
+    id: change-term-synonym
     attributes: 
       label: Change - Synonym(s) or Alternative Label(s)
       description: Request to change existing or add to the listed field synonyms or alternative labels.
