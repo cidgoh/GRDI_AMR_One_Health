@@ -49,9 +49,10 @@ The AMR-GRDI standard is implemented via a spreadsheet-based data collection ins
 
 ### Version Control
 Please note that development of the specification is dynamic and it will be updated periodically to address user needs. Versioning is done in the format of `x.y.z`.
-`x` = Field level changes
-`y` = Term value / ID level changes
-`z` = Definition, guidance, example, formatting, or other uncategorized changes
+
+`x` = Field level changes <br>
+`y` = Term value / ID level changes <br>
+`z` = Definition, guidance, example, formatting, or other uncategorized changes <br>
 
 Descriptions of updates are provided in [release notes](https://github.com/cidgoh/GRDI_AMR_One_Health/releases) for every new version.
 
