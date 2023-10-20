@@ -1,0 +1,71 @@
+name: FORM - Specification New Term Request
+description: An issue form for submitting picklist new term requests (NTR)
+title: "NTR: [current term label]"
+labels: ["term request"]
+body:
+  - type: input
+    id: term-label
+    attributes:
+      label: Proposed Term Label
+      description: 
+      placeholder: ex. Documentation
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: Proposed Associated Field(s)
+      description: The field(s) for which this term should be associated within the specification.
+      placeholder: ex. available_data_types
+    validations:
+      required: true
+  - type: textarea
+    id: definition
+    attributes: 
+      label: Definition/Description
+      description: Please provide brief description to help curators understand and differentiate your intended term.
+      placeholder: ex. A dataset attribute bundle which indicates the presence of documentation data.
+    validations:
+      required: true
+  - type: input
+    id: definition-source
+    attributes: 
+      label: Definition Source
+      description: Any sources that contributed to the definition/description provided (e.g. a URL, identifier, ORCiD).
+      placeholder: ex. https://en.wikipedia.org/wiki/<relevant page>
+    validations:
+      required: false
+  - type: textarea
+    id: guidance
+    attributes: 
+      label: Guidance
+      description: Additional information on how to apply this picklist term.
+      placeholder: ex. Use this tag to indicate additional data is available that provides information that is used to describe, explain or instruct regarding some attributes of an object, system or procedure.
+    validations:
+      required: false
+  - type: input
+    id: alternative-labels
+    attributes: 
+      label: Alternative labels and/or synonyms
+      description: Vocabulary that can be used to refer to the concept instead of the preferred label. Alternative labels should be used to indicate community- or context-specific labels, abbreviations, shorthand forms and the like. You can also indicate synonymy (e.g. broad, exact, narrow, or related).
+      placeholder: ex. documentation available data type
+    validations:
+      required: false
+  - type: textarea
+    id: additional-comments
+    attributes:
+      label: Additional Comments (not an annotation)
+      description: Other information or context you would like the curator(s) to know.
+      placeholder: 
+      value: 
+    validations:
+      required: false
+  - type: input
+    id: contributor
+    attributes: 
+      label: Optional - Contributor Attribution
+      description: Your contributor information (ORCiD preferred) to add the term, within the ontology, if change(s) are accepted.
+      placeholder: 0000-0001-5109-3700 or https://orcid.org/0000-0001-5109-3700
+    validations:
+      required: false
+

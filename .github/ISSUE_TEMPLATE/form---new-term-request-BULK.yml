@@ -1,0 +1,30 @@
+name: FORM - Specification New Term Request - Bulk
+description: An issue form for submitting picklist new term requests
+title: "NTR: [briefly describe bulk term request]"
+labels: ["term request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please make a copy of this [Bulk NTR Template](https://docs.google.com/spreadsheets/d/1eaRqHtr6PvZRalfWQ6wUfLyXdIhKCCUnsvLhykV1zbw/copy) and add all the terms you are submitting with this request. Required columns are indicated by a "Yellow Highlight" header.**
+  - type: input
+    id: ntr-url
+    attributes:
+      label: Bulk NTR URL
+      description: The link to your completed copy of the **Bulk NTR Template** above.
+      placeholder: ex. https://docs.google.com/spreadsheets/<alphanumeric>/edit?usp=sharing
+    validations:
+      required: true
+  - type: checkboxes
+    id: todos
+    attributes:
+      label: Submission Requirements
+      description: Please do the following before submitting this issue.
+      options:
+        - label: Set the spreadsheet link sharing so that "Anyone with the link" can at least "View" or "Comment" if not "Edit".
+          required: true
+        - label: |
+            <issue #> in the spreadsheet title has been replaced with the number of this issue.
+          required: true
+        - label: Required columns (yellow highlight) have been provided for all of the requested terms.
+          required: true
