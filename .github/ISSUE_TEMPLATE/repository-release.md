@@ -15,18 +15,20 @@ assignees: ''
 _Incrementing up one point for any number of changes._
 
 ## Repository Release
+- [ ] Make new branch (e..g <name>_#-#-#_release) if not already working on one.
 - [ ] Upload updated **"Excel Template"**.
   - [ ] Versioning `x.y.z`
-- [ ] Upload updated **"[Reference Guides](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)"** (TSV & PDF).
+- [ ] Upload updated **"[Reference Guides](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)"** (XLSX & PDF).
   - [ ] Update the `Version Tracking` tab
   - [ ] Make sure "text wrap" is on before export so all contents are legible in the PDF
-  - [ ] Do not include "Editor Note" column
+  - [ ] Do not include "Editor Note" column (PDF version)
   - [ ] Clean up formatting (if applicable)
   - [ ] Versioning `x.y.z` (same as template)
-- [ ] Upload updated **"[Metadata Curation SOP](https://docs.google.com/document/d/1AE53-gF2K-6Zd8SimvHrQN-wEXBeNrDqa_fK54-Dpvs/edit?usp=sharing)"** & **"[DataHarmonizer Curation SOP](https://docs.google.com/document/d/1rF73SMpXa9pFRueYI8t-hV6g-0X9e0IWnS_amrcDz3c/edit?usp=sharing)"**.
+- [ ] Upload updated **"[Metadata Curation SOP](https://docs.google.com/document/d/1AE53-gF2K-6Zd8SimvHrQN-wEXBeNrDqa_fK54-Dpvs/edit?usp=sharing)"** & **"[DataHarmonizer Curation SOP](https://docs.google.com/document/d/1rF73SMpXa9pFRueYI8t-hV6g-0X9e0IWnS_amrcDz3c/edit?usp=sharing)"** (PDF).
   - [ ] Versioning `x.y` (same as template, minus "z" changes since those don't come up in the protocol")
-- [ ] Upload updated **"[New Term Request SOP](https://docs.google.com/document/d/11pQAMk1nMJBuHNEif0d8s64LarfEvqtSBEWG3ZImv84/edit?usp=sharing)"**.
+- [ ] Upload updated **"[New Term Request SOP](https://docs.google.com/document/d/11pQAMk1nMJBuHNEif0d8s64LarfEvqtSBEWG3ZImv84/edit?usp=sharing)"** (PDF).
   - [ ] Versioning `x.y` (independent versioning since changes to the specification/template doesn't impact this protocol)
+- [ ] Pull Request & Merge your Branch
 - [ ] **Draft a new release** ([Example](https://github.com/cidgoh/GRDI_AMR_One_Health/releases/tag/v7.7.5)):
   - [ ] Release title: `GRDI-AMR specification package #.#.#`
   - [ ] Choose a tag: `v#.#.#` (create a new tag)
@@ -37,4 +39,4 @@ _Incrementing up one point for any number of changes._
      > _More details can be found under release notes issue #_ <br>
   - [ ] Set as the latest release
   - [ ] Publish release
-  - [ ] Notify curation team on the CIDGOH SLACK #grdi channel
+- [ ] Notify curation team on the CIDGOH SLACK #grdi channel
