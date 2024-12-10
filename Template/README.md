@@ -18,6 +18,7 @@ Check the [curation standard-operating-procedure](https://github.com/cidgoh/GRDI
 - The "**Reference Guide**" tab contains the following field information: whether it is required/recommended/optional, the label, ontology ID, definition, guidance, and examples.
 - The "**Merged Sheet**" tab contains information for a sample/isolate across all applicable tabs.
 - The "**Sample Collection and Processing Information**" tab is where you enter information about the original sample.
+- "**Environmental conditions and measurements**" tab is where you enter information relating to environmental conditions at the time the original sample was collected.
 - The "**Host Information**" tab is where you enter information about the host.
 - The "**Strain and Isolate Information**" tab is where you enter information about the original strain or isolate.
 - The "**Sequence Information**" tab is where you enter information about the sequence.
