@@ -51,33 +51,43 @@ The GRDI-AMR standard is implemented via a spreadsheet-based data collection ins
 > Griffiths, Emma, _et al._ The Broom of the System: A Harmonized Contextual Data Specification for One Health AMR Pathogen Genomic Surveillance. _OSF Preprints_, 2024. [doi:10.31219/osf.io/xbf4t_v1](https://doi.org/10.31219/osf.io/xbf4t_v1)
  
 ### Data Collection Template
-- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
-- [DataHarmonizer App](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator. Template name **"GRDI"**. Template schema files can be found as .yaml/.json/.tsv [here](https://github.com/cidgoh/DataHarmonizer/tree/master/web/templates/grdi).
-  - Instructions on "[Getting Started](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
+A specification template to facilate data curation and harmonization.
+
+- [**XLSX version**](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
+  - A tabular, macro-containing excel spreadsheet version of the specification with a "merged sheet" generated from all the data across individual tabs.
+- [**DataHarmonizer version**](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - A standardized template-driven spreadsheet editor and validator for harmonizing, validating, and transforming genomics contextual data into submission-ready formats. As the excel spreadsheet became more complex and data processing became unwieldy, a GRDI-AMR/GOAH DataHarmonizer template was engineered to faciliated curation, validation, and automated transformations. The "Pathogen-Genomics-Package" is a version of the DataHarmonizer packaged with specification templates. The GRDI-AMR/GAOH Template is listed as **"GRDI"** within the DataHarmonizer template menu. Template schema files can be found as .yaml/.json/.tsv [here](https://github.com/cidgoh/DataHarmonizer/tree/master/web/templates/grdi). Instructions for "Getting Started" in the "[GRDI_DataHarmonizer-SOP.pdf](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
+  - The template is currently implemented as a single tab/worksheet, but a multitabbed version is under active development (beta as of August 2025) to faciliate the "merged sheet"/one-to-many functionality within the DataHarmonizer.
  
 ### Field and Term Reference Guide
-- [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
-- PDF version
+Reference guides providing field and picklist term descriptions, guidance, examples, and version information.
+
+- [**XLSX version**](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
+- **PDF version**
   - [Field Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
   - [Term Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
-- [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
+- [**Online version**](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
 ### GRDI-AMR/GAOH Specification Curation SOP
-- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
-- [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
+Guidance describing and explaining how to curate your data across the different sections of the specification.
+
+- [**PDF version**](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
+- [**Online version**](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 - **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)" 
 
 ### GAOH Metadata and Sequence Standardization and Submission SOP
-- [Online version](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md) 
+A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA.
+- [**Online version**](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md) 
 
 ### DataHarmonizer SOP
-- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)
-- [Online version](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
+Guidance on how to download and use the DataHarmonizer version of the specification.
+- [**PDF version**](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)
+- [**Online version**](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
 
 ### New Term Request SOP
-- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
-- [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
+How to request new fields and/or terms to expand the specificantion so that it appropriately encompasses your data needs. Requests undergo working group discussion and data structure review, then experienced data curators integrate them into the specification and create/submit the terms in the appropriate ontologies.
+- [**PDF version**](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
+- [**Online version**](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
 
 ## Version Control
 Please note that development of the specification is dynamic and it will be updated periodically to address user needs. Versioning is done in the format of `x.y.z`.
