@@ -1,12 +1,32 @@
-# The GRDI-AMR
+# The GRDI-AMR / GAOH Specification
 
-## Using genomics as a tool for understanding how antimicrobial resistance genes and resistant bacteria move throughout the Canadian food supply
+## Table of Contents
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- **[Using genomics for understanding how AMR genes and resistant bacteria move throughout the Canadian food supply](#using-genomics-for-understanding-how-amr-genes-and-resistant-bacteria-move-throughout-the-canadian-food-supply)**
+   * [What are ontologies and how do they improve the quality of data in the GRDI-AMR?](#what-are-ontologies-and-how-do-they-improve-the-quality-of-data-in-the-grdi-amr)
+     
+- **[The GRDI-AMR One Health Specification Package](#the-grdi-amr-one-health-specification-package)**
+   * [Manuscripts](#manuscripts)
+   * [Data Collection Template](#data-collection-template)
+   * [Field and Term Reference Guide](#field-and-term-reference-guide)
+   * [GRDI-AMR/GAOH Specification Curation SOP](#grdi-amrgaoh-specification-curation-sop)
+   * [GAOH Metadata and Sequence Standardization and Submission SOP](#gaoh-metadata-and-sequence-standardization-and-submission-sop)
+   * [DataHarmonizer SOP](#dataharmonizer-sop)
+   * [New Term Request SOP](#new-term-request-sop)
+     
+- **[Version Control](#version-control)**
+
+<!-- TOC end -->
+
+## Using genomics for understanding how AMR genes and resistant bacteria move throughout the Canadian food supply
 
 “One Health” is a collaborative approach that recognizes that the health of people is closely connected to the health of animals and our shared environment. Genomic surveillance using a One Health approach is a powerful tool for understanding and tracking how pathogens affecting human health evolve and spread. Genomic surveillance of pathogens requires high quality sequence data as well as well structured contextual data. Contextual data is the sample, laboratory, clinical, epidemiological, and methods information that enables the interpretation of sequence data. One Health initiatives often involve data streams from different sources, agencies, sectors, and information management systems, and because the data is structured in different ways it is often difficult to harmonize and integrate. By structuring contextual data using community standards such as minimum information checklists and ontologies, this information can be more easily understood and used by both humans and computers, and can be more easily reused for different types of analyses.
 
 Antimicrobial resistance occurs when microbes evolve mechanisms that protect them from the effects of antimicrobial agents (such as antibiotics), resulting in a decreased ability to treat infections and illnesses in people, animals and plants. Antibiotic resistance is a public health concern around the world and the number of bacteria that are resistant to antibiotics is increasing.
 
-The [Canadian Antimicrobial Resistance Genomics Research and Development Initiative (AMR-GRDI)](https://grdi.canada.ca/en/projects/antimicrobial-resistance-amr-project) uses a genomics-based approach to understand how food production contributes to the development of antimicrobial resistance of human health concern, and explore strategies for reducing antimicrobial resistance in food production systems. The AMR-GRDI is a component of the Federal Action Plan for Antimicrobial Resistance and Use in Canada, and involves data streams from federal departments and agencies spanning human health, agriculture, the environment, and food regulation. Participating government departments and agencies include: Agriculture and Agri-Food Canada, the Canadian Food Inspection Agency, Environment and Climate Change Canada, Fisheries and Oceans Canada, Health Canada, the National Research Council of Canada, Natural Resources Canada, and the Public Health Agency of Canada. 
+In support of the Canadian Federal Action Plan for Antimicrobial Resistance (AMR) and Use in Canada (Public Health Agency of Canada, 2015), as well as the Pan-Canadian Action Plan on Antimicrobial Resistance (Public Health Agency of Canada, 2023), the Genomics Research and Development Initiative Shared Priority Projects for AMR ([GRDI-AMR](https://grdi.canada.ca/en/projects/antimicrobial-resistance-amr-project) and [GRDI-AMR-One Health](https://grdi.canada.ca/en/projects/antimicrobial-resistance-2-amr2-project) (GAOH; aka GRDI-AMR2)) uses a genomics-based approach to understand how food production contributes to the development of antimicrobial resistance of human health concern, and explore strategies for reducing antimicrobial resistance in food production systems. The AMR-GRDI is a component of the Federal Action Plan for Antimicrobial Resistance and Use in Canada, and involves data streams from federal departments and agencies spanning human health, agriculture, the environment, and food regulation. Participating government departments and agencies include: Agriculture and Agri-Food Canada, the Canadian Food Inspection Agency, Environment and Climate Change Canada, Fisheries and Oceans Canada, Health Canada, the National Research Council of Canada, Natural Resources Canada, and the Public Health Agency of Canada. 
 
 To better harmonize AMR-GRDI contextual data across sectors and agencies, CIDGOH is leading the Metadata Harmonization Working Group in the development of an ontology-based One Health AMR data standard for foodborne pathogens, which provides standardized fields, pick lists of controlled vocabulary and prescribed formats for the harmonized capture of contextual data. The standardized fields are based on community standards such as NCBI’s combined Pathogen and Environmental attribute package derived from internationally agreed upon Minimal Data for Matching (MDM) standards, as well as applicable fields from different MIxS packages (Genomic Standards Consortium). The data standard will also be harmonized with recently developed standards (e.g. One Health Enteric Package v1.0: Expanded and Standardized Metadata for Enteric Genomic Epidemiology in the U.S, and the Food MIxS package). 
 
@@ -18,36 +38,48 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 The GRDI-AMR specification is also [ISO 23418](https://www.iso.org/standard/75509.html) compliant (Microbiology of the food chain — Whole genome sequencing for typing and genomic characterization of bacteria — General requirements and guidance).
 
-### The GRDI-AMR contextual data specification package
+## The GRDI-AMR One Health Specification Package
 
-The AMR-GRDI standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation SOP. New terms can be added by making a new term request using the NTR SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
+The GRDI-AMR standard is implemented via a spreadsheet-based data collection instrument (i.e. metadata template), accompanying Field and Term reference guides (which provide definitions and additional specific guidance) and a curation Standard Operating Procedure (SOP). New terms can be added by making a new term request using the New Term Request SOP (please note that the specification will be updated periodically to address user needs). Find these resources below:
+
+### Manuscripts
+
+**Implementation Manuscript:** Crossing the streams: improving data quality and integration across the One Health genomics continuum with data standards and implementation strategies
+> Griffiths EJ, Jurga E, Wajnberg G, _et al._ Crossing the streams: improving data quality and integration across the One Health genomics continuum with data standards and implementation strategies. _Can J Microbiol._ 2025;71:1-14. [doi:10.1139/cjm-2024-0203](https://doi.org/10.1139/cjm-2024-0203)
+
+**Design Manuscript:** The Broom of the System: A Harmonized Contextual Data Specification for One Health AMR Pathogen Genomic Surveillance
+> Griffiths, Emma, _et al._ The Broom of the System: A Harmonized Contextual Data Specification for One Health AMR Pathogen Genomic Surveillance. _OSF Preprints_, 2024. [doi:10.31219/osf.io/xbf4t_v1](https://doi.org/10.31219/osf.io/xbf4t_v1)
  
-#### Data Collection Template
+### Data Collection Template
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Template)
 - [DataHarmonizer App](https://github.com/cidgoh/pathogen-genomics-package/releases)
   - The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized browser-based spreadsheet editor and validator. Template name **"GRDI"**. Template schema files can be found as .yaml/.json/.tsv [here](https://github.com/cidgoh/DataHarmonizer/tree/master/web/templates/grdi).
   - Instructions on "[Getting Started](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
  
-#### Field and Term Reference Guide
+### Field and Term Reference Guide
 - [XLSX version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/Reference%20Guide)
 - PDF version
   - [Field Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
   - [Term Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
 - [Online version](https://docs.google.com/spreadsheets/d/1crc7yQtd8aj5LJYyeDMrNWqUO-o9ulKRkSqAub-51gg/edit?usp=sharing)
 
-#### Curation Standard Operating Procedure (SOP)
+### GRDI-AMR/GAOH Specification Curation SOP
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
+- **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)" 
 
-#### DataHarmonizer Download and Operation Instructions (SOP)
+### GAOH Metadata and Sequence Standardization and Submission SOP
+- [Online version](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md) 
+
+### DataHarmonizer SOP
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
 
-#### New Term Request Standard Operating Procedure (SOP)
+### New Term Request SOP
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
 
-### Version Control
+## Version Control
 Please note that development of the specification is dynamic and it will be updated periodically to address user needs. Versioning is done in the format of `x.y.z`.
 
 `x` = Field level changes <br>
