@@ -76,9 +76,9 @@ Guidance describing and explaining how to curate your data across the different 
 - **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)" 
 
 ### GAOH Metadata and Sequence Standardization and Submission SOP
-A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA.
-- [**Online version**](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md) 
-
+A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA. It contains workflow diagrams and checklists to support you in this process.
+- [**Online version**](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md)
+- **Note:** see the [Connecting to the Science Network](https://github.com/grdi-amr/docs-and-SOPs/blob/main/sciNet_access.md) webpage for help connecting to the NMLB's Science Network, which is required to access IRIDA to store sequences, and the dashboards.
 ### DataHarmonizer SOP
 Guidance on how to download and use the DataHarmonizer version of the specification.
 - [**PDF version**](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)
