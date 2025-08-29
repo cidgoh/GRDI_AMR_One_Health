@@ -1,7 +1,7 @@
 # GRDI-AMR / GAOH Data Collection Template
 GRDI-AMR / GAOH = _Genomics Research and Development Initiative Shared Priority Projects for Antimicrobial Resistance (GRDI-AMR and GRDI-AMR-One Health (GAOH; aka GRDI-AMR2))_
 
-**The contents of this directory include the spreadsheet-based implementation (i.e. metadata template) of the AMR-GRDI standard.**
+**The contents of this directory include the spreadsheet-based implementation (i.e. metadata template) of the GRDI-AMR specification.**
 
 ## Files
 
@@ -44,4 +44,5 @@ Find the file on your computer, right-click and select "Properties". Navigate to
 #### Add a Trusted Location
 
 If you consistently save the template is a specific folder, or access via a GitHub repository clone, you can follow the "Add a new Trusted Location" on this page: https://www.automateexcel.com/macros/enable-macros/
+
 
