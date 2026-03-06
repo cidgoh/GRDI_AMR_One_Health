@@ -75,7 +75,7 @@ Guidance describing and explaining how to curate your metadata across the differ
 - [**Online version**](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 - **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)" 
 
-### GAOH Metadata and Sequence Standardization and Submission SOP
+### Metadata, Sequence Standardization and Submission SOP
 A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA. It contains workflow diagrams and checklists to support you in this process.
 - [**Online version**](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md)
 - **Note:** see the [Connecting to the Science Network](https://github.com/grdi-amr/docs-and-SOPs/blob/main/sciNet_access.md) webpage for help connecting to the NMLB's Science Network, which is required to access IRIDA to store sequences, and the dashboards.
