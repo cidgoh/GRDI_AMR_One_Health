@@ -73,7 +73,8 @@ Guidance describing and explaining how to curate your metadata across the differ
 
 - [**PDF version**](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [**Online version**](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
-- **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)" 
+- [**Online version - Subprotocol:** Best Practices for Sample and Isolate Identifiers:](https://docs.google.com/document/d/e/2PACX-1vTboddFdkcHaecXLOXrGStyo_JhNEqr6A4o1pQ7miHNoRTHQC5wiUZ4KiKbp0XxGZ50bbs-jvQzhyni/pub) A companion document, linked within this SOP, that outlines best practices for establishing and using sample and isolate identifiers have been described in a companion document 
+- **Note:** Detailed worked examples, that may help users navigate different curation scenarios, can be found in the "[Design Manuscript](#manuscripts)"
 
 ### Metadata, Sequence Standardization and Submission SOP
 A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA. It contains workflow diagrams and checklists to support you in this process.
