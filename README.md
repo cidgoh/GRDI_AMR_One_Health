@@ -11,8 +11,8 @@
    * [Manuscripts](#manuscripts)
    * [Data Collection Template](#data-collection-template)
    * [Field and Term Reference Guide](#field-and-term-reference-guide)
-   * [GRDI-AMR/GAOH Specification Curation SOP](#grdi-amrgaoh-specification-curation-sop)
-   * [GAOH Metadata and Sequence Standardization and Submission SOP](#gaoh-metadata-and-sequence-standardization-and-submission-sop)
+   * [Metadata Curation SOP](#metadata-curation-sop)
+   * [Metadata, Sequence Standardization and Submission SOP](#metadata-sequence-standardization-and-submission-sop)
    * [DataHarmonizer SOP](#dataharmonizer-sop)
    * [New Term Request SOP](#new-term-request-sop)
      
