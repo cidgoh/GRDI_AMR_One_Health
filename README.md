@@ -78,7 +78,7 @@ Guidance describing and explaining how to curate your metadata across the differ
 
 ### Metadata, Sequence Standardization and Submission SOP
 A webpage that outlines how to standardize sample, isolate, and sequence metadata as well as the process for submitting data to the central database (VMR), NCBI, and IRIDA. It contains workflow diagrams and checklists to support you in this process.
-- [**Online version**](https://github.com/grdi-amr/docs-and-SOPs/blob/main/metadata_standards_sop.md)
+- [**Online version**](https://github.com/grdi-amr/docs/blob/main/metadata_standards_sop.md)
 - **Note:** see the [Connecting to the Science Network](https://github.com/grdi-amr/docs-and-SOPs/blob/main/sciNet_access.md) webpage for help connecting to the NMLB's Science Network, which is required to access IRIDA to store sequences, and the dashboards.
 ### DataHarmonizer SOP
 Guidance on how to download and use the DataHarmonizer version of the specification.
